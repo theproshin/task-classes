@@ -21,5 +21,3 @@ export class Counter {
         return --this.counter;
     }
 }
-
-const c = new Counter();
